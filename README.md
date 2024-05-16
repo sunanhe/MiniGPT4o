@@ -16,7 +16,7 @@ Output
 https://github.com/sunanhe/MiniGPT4o/assets/23723034/ca183825-6102-4f6d-b58a-c855fe0b4453
 
 ### Case 2
-https://github.com/sunanhe/MiniGPT4o/assets/23723034/e998db8c-d04e-4228-b082-089987187a49
+https://github.com/sunanhe/MiniGPT4o/assets/23723034/c8a486c1-903a-4551-96d9-5f26c10503b2
 
 Output
 
